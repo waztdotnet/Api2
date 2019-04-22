@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="InventorViewLockerAddin" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{40e1a957-d12e-4652-a33d-d3afa7cd98bf}" progid="InventorViewLockerAddin.StandardAddInServer" threadingModel="Both" name="InventorViewLockerAddin.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="InventorViewLockerAddin.dll" hashalg="SHA1"></file>
+
+</assembly>

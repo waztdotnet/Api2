@@ -1,0 +1,14 @@
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\bin\Debug\InventorViews.dll
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\bin\Debug\InventorViews.pdb
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\bin\Debug\autodesk.inventor.interop.dll
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\bin\Debug\stdole.dll
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\bin\Debug\WiewApp.exe
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\bin\Debug\WiewApp.pdb
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\bin\Debug\WiewApp.exe.config
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\obj\Debug\InventorViews.csprojAssemblyReference.cache
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\obj\Debug\InvAddIn.Properties.Resources.resources
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\obj\Debug\InventorViews.csproj.GenerateResource.cache
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\obj\Debug\InventorViews.csproj.CoreCompileInputs.cache
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\obj\Debug\InventorViews.csproj.CopyComplete
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\obj\Debug\InventorViews.dll
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\obj\Debug\InventorViews.pdb

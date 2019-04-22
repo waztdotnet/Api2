@@ -1,0 +1,11 @@
+C:\Users\rwarr\source\repos\InventorViews\WiewApp\bin\Debug\ViewFormApp.exe.config
+C:\Users\rwarr\source\repos\InventorViews\WiewApp\bin\Debug\ViewFormApp.exe
+C:\Users\rwarr\source\repos\InventorViews\WiewApp\bin\Debug\ViewFormApp.pdb
+C:\Users\rwarr\source\repos\InventorViews\WiewApp\bin\Debug\Autodesk.Inventor.Interop.dll
+C:\Users\rwarr\source\repos\InventorViews\WiewApp\obj\Debug\ViewApp.csproj.ResolveComReference.cache
+C:\Users\rwarr\source\repos\InventorViews\WiewApp\obj\Debug\ViewApp.ViewsForm.resources
+C:\Users\rwarr\source\repos\InventorViews\WiewApp\obj\Debug\ViewApp.Properties.Resources.resources
+C:\Users\rwarr\source\repos\InventorViews\WiewApp\obj\Debug\ViewApp.csproj.GenerateResource.cache
+C:\Users\rwarr\source\repos\InventorViews\WiewApp\obj\Debug\ViewApp.csproj.CoreCompileInputs.cache
+C:\Users\rwarr\source\repos\InventorViews\WiewApp\obj\Debug\ViewFormApp.exe
+C:\Users\rwarr\source\repos\InventorViews\WiewApp\obj\Debug\ViewFormApp.pdb

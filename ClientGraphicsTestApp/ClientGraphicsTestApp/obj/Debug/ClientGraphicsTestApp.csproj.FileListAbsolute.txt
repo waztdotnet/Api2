@@ -1,0 +1,24 @@
+E:\OnlineVisualStudio\Inventor Api\ClientGraphicsTestApp\ClientGraphicsTestApp\obj\Debug\ClientGraphicsTestApp.csprojAssemblyReference.cache
+E:\OnlineVisualStudio\Inventor Api\ClientGraphicsTestApp\ClientGraphicsTestApp\obj\Debug\Interop.InventorThumbnailViewLib.dll
+E:\OnlineVisualStudio\Inventor Api\ClientGraphicsTestApp\ClientGraphicsTestApp\obj\Debug\ClientGraphicsTestApp.csproj.ResolveComReference.cache
+E:\OnlineVisualStudio\Inventor Api\ClientGraphicsTestApp\ClientGraphicsTestApp\obj\Debug\ClientGraphicsTestApp.csproj.GenerateResource.cache
+E:\OnlineVisualStudio\Inventor Api\ClientGraphicsTestApp\ClientGraphicsTestApp\obj\Debug\ClientGraphicsTestApp.csproj.CoreCompileInputs.cache
+E:\OnlineVisualStudio\Inventor Api\ClientGraphicsTestApp\ClientGraphicsTestApp\obj\Debug\UserGraphicsApp.Properties.Resources.resources
+E:\OnlineVisualStudio\Inventor Api\ClientGraphicsTestApp\ClientGraphicsTestApp\bin\Debug\UserGraphicsApp.exe.config
+E:\OnlineVisualStudio\Inventor Api\ClientGraphicsTestApp\ClientGraphicsTestApp\bin\Debug\UserGraphicsApp.exe
+E:\OnlineVisualStudio\Inventor Api\ClientGraphicsTestApp\ClientGraphicsTestApp\bin\Debug\UserGraphicsApp.pdb
+E:\OnlineVisualStudio\Inventor Api\ClientGraphicsTestApp\ClientGraphicsTestApp\obj\Debug\UserGraphicsApp.UserGUI.resources
+E:\OnlineVisualStudio\Inventor Api\ClientGraphicsTestApp\ClientGraphicsTestApp\obj\Debug\UserGraphicsApp.exe
+E:\OnlineVisualStudio\Inventor Api\ClientGraphicsTestApp\ClientGraphicsTestApp\obj\Debug\UserGraphicsApp.pdb
+F:\OnlineVisualStudioRepoCS\Inventor - Api CSharp\ClientGraphicsTestApp\ClientGraphicsTestApp\bin\Debug\UserGraphicsApp.exe.config
+F:\OnlineVisualStudioRepoCS\Inventor - Api CSharp\ClientGraphicsTestApp\ClientGraphicsTestApp\bin\Debug\UserGraphicsApp.exe
+F:\OnlineVisualStudioRepoCS\Inventor - Api CSharp\ClientGraphicsTestApp\ClientGraphicsTestApp\bin\Debug\UserGraphicsApp.pdb
+F:\OnlineVisualStudioRepoCS\Inventor - Api CSharp\ClientGraphicsTestApp\ClientGraphicsTestApp\obj\Debug\ClientGraphicsTestApp.csprojAssemblyReference.cache
+F:\OnlineVisualStudioRepoCS\Inventor - Api CSharp\ClientGraphicsTestApp\ClientGraphicsTestApp\obj\Debug\Interop.InventorThumbnailViewLib.dll
+F:\OnlineVisualStudioRepoCS\Inventor - Api CSharp\ClientGraphicsTestApp\ClientGraphicsTestApp\obj\Debug\ClientGraphicsTestApp.csproj.ResolveComReference.cache
+F:\OnlineVisualStudioRepoCS\Inventor - Api CSharp\ClientGraphicsTestApp\ClientGraphicsTestApp\obj\Debug\UserGraphicsApp.Properties.Resources.resources
+F:\OnlineVisualStudioRepoCS\Inventor - Api CSharp\ClientGraphicsTestApp\ClientGraphicsTestApp\obj\Debug\UserGraphicsApp.UserGUI.resources
+F:\OnlineVisualStudioRepoCS\Inventor - Api CSharp\ClientGraphicsTestApp\ClientGraphicsTestApp\obj\Debug\ClientGraphicsTestApp.csproj.GenerateResource.cache
+F:\OnlineVisualStudioRepoCS\Inventor - Api CSharp\ClientGraphicsTestApp\ClientGraphicsTestApp\obj\Debug\ClientGraphicsTestApp.csproj.CoreCompileInputs.cache
+F:\OnlineVisualStudioRepoCS\Inventor - Api CSharp\ClientGraphicsTestApp\ClientGraphicsTestApp\obj\Debug\UserGraphicsApp.exe
+F:\OnlineVisualStudioRepoCS\Inventor - Api CSharp\ClientGraphicsTestApp\ClientGraphicsTestApp\obj\Debug\UserGraphicsApp.pdb

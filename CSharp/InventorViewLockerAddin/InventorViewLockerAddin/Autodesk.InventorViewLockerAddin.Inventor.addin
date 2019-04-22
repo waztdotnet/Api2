@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 20.0-->
+  <ClassId>{40e1a957-d12e-4652-a33d-d3afa7cd98bf}</ClassId>
+  <ClientId>{40e1a957-d12e-4652-a33d-d3afa7cd98bf}</ClientId>
+  <DisplayName>InventorViewLockerAddin</DisplayName>
+  <Description>InventorViewLockerAddin</Description>
+  <Assembly>InventorViewLockerAddin.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>19..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InventorAutoSpool.CPipeModel">
+    <Position X="1.5" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="InventorAutoSpool.CPipeModel.LookUpPipeSize">
+        <TypeIdentifier>
+          <NewMemberFileName>CPipeModel.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAQAQIgAAAIAAgAAAAAIAAAAAAAAAAAAJEAAAAAAAA=</HashCode>
+      <FileName>CPipeModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventorAutoSpool.CPipeModelAssembly">
+    <Position X="6.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAQAgAAQAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CPipeModelAssembly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventorAutoSpool.CFlange">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIQAQQABAEAAEgAAAAAIAAAAAAEAAAAAEABIAAAAAI=</HashCode>
+      <FileName>CFlange.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="InventorViews" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{55488e4a-45de-4630-a00c-b31e0eb17ba8}" progid="InventorViews.StandardAddInServer" threadingModel="Both" name="InventorViews.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="InventorViews.dll" hashalg="SHA1"></file>
+
+</assembly>

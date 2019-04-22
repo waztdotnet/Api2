@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvGroups", "InvGroups\InvGroups.csproj", "{CCF9B732-1518-4D83-91EE-05D3BE2A3883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCF9B732-1518-4D83-91EE-05D3BE2A3883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF9B732-1518-4D83-91EE-05D3BE2A3883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF9B732-1518-4D83-91EE-05D3BE2A3883}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CCF9B732-1518-4D83-91EE-05D3BE2A3883}.Debug|x64.Build.0 = Debug|Any CPU
+		{CCF9B732-1518-4D83-91EE-05D3BE2A3883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF9B732-1518-4D83-91EE-05D3BE2A3883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF9B732-1518-4D83-91EE-05D3BE2A3883}.Release|x64.ActiveCfg = Release|x64
+		{CCF9B732-1518-4D83-91EE-05D3BE2A3883}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BD50D04-5DC0-4DD6-9678-597C8DE71713}
+	EndGlobalSection
+EndGlobal

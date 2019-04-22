@@ -1,0 +1,11 @@
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\bin\Debug\InventorViewsServer.dll
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\bin\Debug\InventorViewsServer.pdb
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\bin\Debug\autodesk.inventor.interop.dll
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\bin\Debug\stdole.dll
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\obj\Debug\InvAddIn.Properties.Resources.resources
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\obj\Debug\InventorViewsServer.csproj.GenerateResource.cache
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\obj\Debug\InventorViewsServer.csproj.CoreCompileInputs.cache
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\obj\Debug\InventorViewsServer.csproj.CopyComplete
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\obj\Debug\InventorViewsServer.dll
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\obj\Debug\InventorViewsServer.pdb
+C:\Users\rwarr\source\repos\InventorViews\InventorViews\obj\Debug\InvAddIn.SetReps.resources

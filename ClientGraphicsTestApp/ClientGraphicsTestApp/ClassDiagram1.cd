@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Utility.Graphics.CGraphicsManager">
+    <Position X="3.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AFQAASACAAAABICBAgCQACACAAAACAACQEIAQAQAAIA=</HashCode>
+      <FileName>CGraphicsManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Utility.Graphics.CGraphics">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgACAAAAAAAAAAgAAAAECAAACAAAAAAAAACI=</HashCode>
+      <FileName>CGraphicsManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClientGraphicsLib.CClientGraphic">
+    <Position X="10" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAQAAgAACgAIAABQAAAAAAAAAAAAAAAACAAAAGA=</HashCode>
+      <FileName>CClientGraphic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UtilitysLib.InventorUtilities">
+    <Position X="6.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>EBAAYAAEgAAAAYAAAARAAgAAAAIACAAABAKCAABEAAQ=</HashCode>
+      <FileName>InventorUtilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EventsInventLib.CInvInputEvents">
+    <Position X="6.5" Y="6" Width="4" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="EventsInventLib.CInvInputEvents.CInventorEvents_OnSelect_DelegateHandler">
+        <TypeIdentifier>
+          <NewMemberFileName>CInvInputEvents.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="EventsInventLib.CInvInputEvents.CInventorEventsDelegateHandler">
+        <TypeIdentifier>
+          <NewMemberFileName>CInvInputEvents.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAASIAAAAAgAAACAAQAIAAEAAQABACAAAgCgGAIA=</HashCode>
+      <FileName>CInvInputEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Utility.Graphics.GraphicModeEnum">
+    <Position X="0.5" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAIBAAAAAAIIAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>CGraphicsManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Utility.Graphics.IntActionGraphicsModeEnum">
+    <Position X="0.5" Y="6" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CGraphicsManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="UtilitysLib.SupportedSoftwareVersionEnum">
+    <Position X="10" Y="4.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAACQAAAAAAAAAAAAAAQAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>InventorUtilities.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

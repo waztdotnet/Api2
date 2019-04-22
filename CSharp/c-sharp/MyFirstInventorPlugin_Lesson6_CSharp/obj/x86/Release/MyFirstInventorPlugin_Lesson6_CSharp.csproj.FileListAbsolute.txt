@@ -1,0 +1,18 @@
+C:\Users\brillw\AppData\Local\Temporary Projects\MyFirstInventorPlugin_Lesson6_CSharp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\brillw\AppData\Local\Temporary Projects\MyFirstInventorPlugin_Lesson6_CSharp\obj\x86\Release\MyFirstInventorPlugin_Lesson6_CSharp.Form1.resources
+C:\Users\brillw\AppData\Local\Temporary Projects\MyFirstInventorPlugin_Lesson6_CSharp\obj\x86\Release\MyFirstInventorPlugin_Lesson6_CSharp.Properties.Resources.resources
+C:\Users\brillw\AppData\Local\Temporary Projects\MyFirstInventorPlugin_Lesson6_CSharp\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\brillw\AppData\Local\Temporary Projects\MyFirstInventorPlugin_Lesson6_CSharp\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\brillw\AppData\Local\Temporary Projects\MyFirstInventorPlugin_Lesson6_CSharp\bin\Release\MyFirstInventorPlugin_Lesson6_CSharp.exe
+C:\Users\brillw\AppData\Local\Temporary Projects\MyFirstInventorPlugin_Lesson6_CSharp\bin\Release\MyFirstInventorPlugin_Lesson6_CSharp.pdb
+C:\Users\brillw\AppData\Local\Temporary Projects\MyFirstInventorPlugin_Lesson6_CSharp\obj\x86\Release\MyFirstInventorPlugin_Lesson6_CSharp.exe
+C:\Users\brillw\AppData\Local\Temporary Projects\MyFirstInventorPlugin_Lesson6_CSharp\obj\x86\Release\MyFirstInventorPlugin_Lesson6_CSharp.pdb
+C:\Users\brillw\documents\visual studio 2010\Projects\MyFirstInventorPlugin_Lesson6_CSharp\MyFirstInventorPlugin_Lesson6_CSharp\obj\x86\Release\MyFirstInventorPlugin_Lesson6_CSharp.exe
+C:\Users\brillw\documents\visual studio 2010\Projects\MyFirstInventorPlugin_Lesson6_CSharp\MyFirstInventorPlugin_Lesson6_CSharp\obj\x86\Release\MyFirstInventorPlugin_Lesson6_CSharp.pdb
+C:\Users\brillw\documents\visual studio 2010\Projects\MyFirstInventorPlugin_Lesson6_CSharp\MyFirstInventorPlugin_Lesson6_CSharp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\brillw\documents\visual studio 2010\Projects\MyFirstInventorPlugin_Lesson6_CSharp\MyFirstInventorPlugin_Lesson6_CSharp\obj\x86\Release\MyFirstInventorPlugin_Lesson6_CSharp.Form1.resources
+C:\Users\brillw\documents\visual studio 2010\Projects\MyFirstInventorPlugin_Lesson6_CSharp\MyFirstInventorPlugin_Lesson6_CSharp\obj\x86\Release\MyFirstInventorPlugin_Lesson6_CSharp.Properties.Resources.resources
+C:\Users\brillw\documents\visual studio 2010\Projects\MyFirstInventorPlugin_Lesson6_CSharp\MyFirstInventorPlugin_Lesson6_CSharp\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\brillw\documents\visual studio 2010\Projects\MyFirstInventorPlugin_Lesson6_CSharp\MyFirstInventorPlugin_Lesson6_CSharp\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\brillw\documents\visual studio 2010\Projects\MyFirstInventorPlugin_Lesson6_CSharp\MyFirstInventorPlugin_Lesson6_CSharp\bin\Release\MyFirstInventorPlugin_Lesson6_CSharp.exe
+C:\Users\brillw\documents\visual studio 2010\Projects\MyFirstInventorPlugin_Lesson6_CSharp\MyFirstInventorPlugin_Lesson6_CSharp\bin\Release\MyFirstInventorPlugin_Lesson6_CSharp.pdb

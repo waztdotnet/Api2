@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 23.0-->
+  <ClassId>{ff68a3bf-0498-45b6-9cdd-ddd9f316ce24}</ClassId>
+  <ClientId>{ff68a3bf-0498-45b6-9cdd-ddd9f316ce24}</ClientId>
+  <DisplayName>PowerViewsAndGroups</DisplayName>
+  <Description>PowerViewsAndGroups</Description>
+  <Assembly>PowerViewsAndGroups.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>22..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>

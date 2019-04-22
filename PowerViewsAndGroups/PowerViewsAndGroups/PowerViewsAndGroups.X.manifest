@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="PowerViewsAndGroups" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{ff68a3bf-0498-45b6-9cdd-ddd9f316ce24}" progid="PowerViewsAndGroups.StandardAddInServer" threadingModel="Both" name="PowerViewsAndGroups.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="PowerViewsAndGroups.dll" hashalg="SHA1"></file>
+
+</assembly>

@@ -1,0 +1,45 @@
+﻿    /// <summary>
+    /// obj
+    /// </summary>
+    /// <remarks>
+    /// //switch (objTypeEum)
+    ///         //{
+    ///         //    case Inventor.ObjectTypeEnum.kComponentOccurrenceObject:
+    ///         //        //Inventor.ComponentOccurrence ComponentOccurrence = (Inventor.ComponentOccurrence)objUnKnown;
+    ///         //        //ColourIt(AssemblyDocument, ComponentOccurrence);
+    ///         //        //System.Diagnostics.Debug.WriteLine(ComponentOccurrence.Name);
+    ///         //        return objTypeEum;
+    ///         //        break;
+    ///         //    case Inventor.ObjectTypeEnum.kRectangularOccurrencePatternObject:
+    ///         //        //Inventor.RectangularOccurrencePattern RectangularOccurrencePattern = (Inventor.RectangularOccurrencePattern)objUnKnown;
+    ///         //        //foreach (var Ritem in RectangularOccurrencePattern.OccurrencePatternElements)
+    ///         //        //{
+    ///         //        //    Inventor.OccurrencePatternElement occurrencePatternElement = (Inventor.OccurrencePatternElement)Ritem;
+    ///         //        //    foreach (var Occitem in occurrencePatternElement.Occurrences)
+    ///         //        //    {
+    ///         //        //        Inventor.ComponentOccurrence componentOccurrence = (Inventor.ComponentOccurrence)Occitem;
+    ///         //        //        ColourIt(AssemblyDocument, componentOccurrence);
+    ///         //        //    }
+    ///         //        //}
+    ///         //        break;
+    ///         //    default:
+    ///         //        break;
+    ///         //}
+    ///         //foreach (object item in JustSelectedEntities)
+    ///         //{
+    ///         //    ObjType(item);
+    ///         //    System.Diagnostics.Debug.WriteLine("Just Selected");
+    ///         //}
+    ///         //if (MoreSelectedEntities != null)
+    ///         //{
+    ///         //    foreach (object item in MoreSelectedEntities)
+    ///         //    {
+    ///         //        ObjType(item);
+    ///         //        System.Diagnostics.Debug.WriteLine("More Selected");
+    ///         //    }
+    ///         //}
+    ///         //Inventor.AssemblyDocument AssemblyDocument,
+    ///         //string Colour = "Red";
+    ///         //ColourOccurance(AssemblyDocument, componentOccurrence, Colour);
+    ///         //,Inventor.AssemblyDocument AssemblyDocument
+    /// </remarks>

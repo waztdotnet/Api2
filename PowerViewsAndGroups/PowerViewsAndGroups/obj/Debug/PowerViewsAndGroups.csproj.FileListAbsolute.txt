@@ -1,0 +1,9 @@
+C:\Users\rwarr\source\repos\PowerViewsAndGroups\PowerViewsAndGroups\bin\Debug\PowerViewsAndGroups.dll
+C:\Users\rwarr\source\repos\PowerViewsAndGroups\PowerViewsAndGroups\bin\Debug\PowerViewsAndGroups.pdb
+C:\Users\rwarr\source\repos\PowerViewsAndGroups\PowerViewsAndGroups\obj\Debug\PowerViewsAndGroups.Properties.Resources.resources
+C:\Users\rwarr\source\repos\PowerViewsAndGroups\PowerViewsAndGroups\obj\Debug\PowerViewsAndGroups.UIMain.resources
+C:\Users\rwarr\source\repos\PowerViewsAndGroups\PowerViewsAndGroups\obj\Debug\PowerViewsAndGroups.csproj.GenerateResource.cache
+C:\Users\rwarr\source\repos\PowerViewsAndGroups\PowerViewsAndGroups\obj\Debug\PowerViewsAndGroups.csproj.CoreCompileInputs.cache
+C:\Users\rwarr\source\repos\PowerViewsAndGroups\PowerViewsAndGroups\obj\Debug\PowerViewsAndGroups.dll
+C:\Users\rwarr\source\repos\PowerViewsAndGroups\PowerViewsAndGroups\obj\Debug\PowerViewsAndGroups.pdb
+C:\Users\rwarr\source\repos\PowerViewsAndGroups\PowerViewsAndGroups\obj\Debug\PowerViewsAndGroups.csprojAssemblyReference.cache

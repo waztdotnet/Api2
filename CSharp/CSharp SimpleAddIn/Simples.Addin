@@ -1,0 +1,19 @@
+﻿<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 17.0-->
+  <ClassId>{51e6ad8e-5eaa-42a1-b845-a68802a26bf7}</ClassId>
+  <ClientId>{51e6ad8e-5eaa-42a1-b845-a68802a26bf7}</ClientId>
+  <DisplayName>SampleAddIn</DisplayName>
+  <Description>SampleAddIn</Description>
+  <Assembly>SampleAddIn.dll</Assembly>
+  <OSType>Win64</OSType>
+  <LoadAutomatically>1</LoadAutomatically>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>16..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <LoadBehavior>2</LoadBehavior>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
+
+
+

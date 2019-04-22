@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InvAddIn.CUIMain">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAIAAABAAABAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>CUIMain.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="InvAddIn.UIMain">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UIMain.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.279" Collapsed="true" />
+  </Class>
+  <Class Name="PowerViewGroups.StandardAddInServer">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="PowerViewGroups.StandardAddInServer.AxHostConverter" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>StandardAddInServer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIEAEAAAAgBUACBAAgAAAAKAgAAAAAAAAAQAAAAJAAI=</HashCode>
+      <FileName>StandardAddInServer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="InvAddIn.IComDialog">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IComDialog.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Inventor.ApplicationAddInServer">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

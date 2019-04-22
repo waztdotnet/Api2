@@ -1,0 +1,11 @@
+E:\OnlineVisualStudio\Inventor Api\InventorGroups\InvGroups\bin\x64\Debug\InvGroups.exe.config
+E:\OnlineVisualStudio\Inventor Api\InventorGroups\InvGroups\bin\x64\Debug\InvGroups.exe
+E:\OnlineVisualStudio\Inventor Api\InventorGroups\InvGroups\bin\x64\Debug\InvGroups.pdb
+E:\OnlineVisualStudio\Inventor Api\InventorGroups\InvGroups\obj\x64\Debug\InvGroups.csproj.ResolveComReference.cache
+E:\OnlineVisualStudio\Inventor Api\InventorGroups\InvGroups\obj\x64\Debug\InvGroups.Properties.Resources.resources
+E:\OnlineVisualStudio\Inventor Api\InventorGroups\InvGroups\obj\x64\Debug\InvGroups.UserGUI.resources
+E:\OnlineVisualStudio\Inventor Api\InventorGroups\InvGroups\obj\x64\Debug\InvGroups.csproj.GenerateResource.cache
+E:\OnlineVisualStudio\Inventor Api\InventorGroups\InvGroups\obj\x64\Debug\InvGroups.csproj.CoreCompileInputs.cache
+E:\OnlineVisualStudio\Inventor Api\InventorGroups\InvGroups\obj\x64\Debug\InvGroups.exe
+E:\OnlineVisualStudio\Inventor Api\InventorGroups\InvGroups\obj\x64\Debug\InvGroups.pdb
+E:\OnlineVisualStudio\Inventor Api\InventorGroups\InvGroups\obj\x64\Debug\InvGroups.csprojAssemblyReference.cache
